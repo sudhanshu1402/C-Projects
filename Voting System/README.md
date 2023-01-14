@@ -7,11 +7,10 @@
 - And using "Find Leading Candidate" we got the result who is in the leading position. If any two candidate have the same highest vote then we got a error "Warning !!! No-win situation"
 
 
-## Input
+## Input:
 ![image](https://user-images.githubusercontent.com/99204211/182350466-f3164768-af63-44c5-8aa3-ffa22a870b3d.png)
 
-
-## Output
+## Output:
 ![image](https://user-images.githubusercontent.com/99204211/182350053-ae3d3502-ddb5-4e97-a400-30e6927d74d1.png)
 ![image](https://user-images.githubusercontent.com/99204211/182350107-3a0564eb-a05b-48e2-9f38-f0e943554f8a.png)
 ![image](https://user-images.githubusercontent.com/99204211/182350138-0cf8aad1-eb7c-4f98-bad1-af269fa1811a.png)

@@ -22,6 +22,7 @@
 - The user input as the specific year is taken and stored in variable ‘year’.
 - The ‘for’ loop is run for 12 times (once for each month) and for each iteration the functions are called to calculate number of days for the month, print month name and print the month dates.
 
+
 ## Input
 Input Year = 2000
 ![run 1](https://user-images.githubusercontent.com/99204211/182341372-2876ae12-5410-4e85-aa94-1ccba38a2c2f.jpeg)
